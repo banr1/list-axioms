@@ -1,7 +1,7 @@
 # List Axioms
 
 ```
-list-axioms/ [main] $ lake env lean Script.lean
+list-axioms/ [main] $ lake env lean ListAxiomsScript.lean
 sorryAx
 lcUnreachable
 lcProof
